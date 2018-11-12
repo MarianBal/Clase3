@@ -1,10 +1,17 @@
 div {
-    font-family: Verdana;}
-
+    font-family: Verdana;
+}
+ul {
+    width: 600px;
+    height: 60px;
+    background: grey;
+    margin-left: 300px;
+    margin-bottom: 5px;
+}
 #header {
-    width: 90%;
-    height: 250px;
-    background:aquamarine;
+    width: 1200px;
+    height: 220px;
+    background:lightgrey;
     text-align: center;
     margin-left: 10px;
 }
@@ -13,24 +20,34 @@ img {
     height: 120px;
 }
 #banner{
-    width: 90%;
-    height: 120px;
-    background:aquamarine;
+    width: 1200px;
+    height: 70px;
+    background:lightgrey;
     text-align: center;
     margin: 10px; 
     margin-left: 10px;
 }
 #sidebar{
-    width: 120px;
-    height: 300px;
-    background-color: aquamarine;
+    width: 200px;
+    height: 200px;
+    background-color: lightgrey;
     float: left;
     margin-left: 10px;
+    margin-bottom: 10px;
 }
 #articulo{
-    width: 120px;
-    height: 300px;
-    background-color: aquamarine;
+    width: 990px;
+    height: 200px;
+    background-color: lightgrey;
+    float: left;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+#footer{
+    width: 1200px;
+    height: 30px;
+    background:lightgrey;
+    text-align: center;
     float: left;
     margin-left: 10px;
 }
